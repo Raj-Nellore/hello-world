@@ -1,2 +1,2 @@
 # hello-world
-Learn
+Learning how to operate in the github enviroment
